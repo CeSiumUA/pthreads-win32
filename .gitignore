@@ -1,1 +1,5 @@
 .vs
+*.tlog
+*.log
+*.pdb
+*.h.obj.dt*
