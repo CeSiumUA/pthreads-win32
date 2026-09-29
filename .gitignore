@@ -3,3 +3,9 @@
 *.log
 *.pdb
 *.h.obj.dt*
+*.exp
+*.dll*
+*.lib
+*.obj
+*.ilk
+*.res
